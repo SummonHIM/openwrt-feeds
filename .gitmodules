@@ -1,0 +1,29 @@
+[submodule "openwrt-passwall-package"]
+	path = openwrt-passwall-package
+	url = https://github.com/xiaorouji/openwrt-passwall
+	branch = packages
+[submodule "openwrt-passwall"]
+	path = openwrt-passwall
+	url = https://github.com/xiaorouji/openwrt-passwall
+	branch = luci
+[submodule "lua-maxminddb"]
+	path = lua-maxminddb
+	url = https://github.com/jerrykuku/lua-maxminddb.git
+[submodule "luci-app-vssr"]
+	path = luci-app-vssr
+	url = https://github.com/jerrykuku/luci-app-vssr.git
+[submodule "OpenClash"]
+	path = OpenClash
+	url = https://github.com/vernesong/OpenClash.git
+[submodule "luci-app-wechatpush"]
+	path = luci-app-wechatpush
+	url = https://github.com/tty228/luci-app-wechatpush.git
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "openwrt_nezha"]
+	path = openwrt_nezha
+	url = https://github.com/Erope/openwrt_nezha.git
+[submodule "luci-app-argon-config"]
+	path = luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config.git
