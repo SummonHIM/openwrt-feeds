@@ -27,6 +27,3 @@
 [submodule "luci-app-argon-config"]
 	path = luci-app-argon-config
 	url = https://github.com/jerrykuku/luci-app-argon-config.git
-[submodule "luci-app-esfshell"]
-	path = luci-app-esfshell
-	url = https://github.com/SummonHIM/luci-app-esfshell.git
